@@ -8,7 +8,6 @@ concepts of client and server. In your explanation, make sure to mention:
 • Which device acts as the client?
 Bob’s device acts as the client,when Bob clicks the GitHub repository link in his web browser, his computer (or phone) becomes the client.
 
-
 • Which device acts as the server?
 GitHub servers are the server,The GitHub website is hosted on remote servers, which store the repository’s data (code, files, and metadata).
 
