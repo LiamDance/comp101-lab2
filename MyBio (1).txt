@@ -1,1 +1,20 @@
-I'm Liam, and my life revolves around three main passions: cars, painting, and boxing. I love everything about automobiles\'97from classic muscle cars to modern sports cars, and I'm not afraid to get under the hood when needed. When I'm not around cars, I enjoy expressing my creativity through painting. Boxing keeps me physically and mentally sharp, teaching me discipline and pushing me to challenge myself. These three interests keep me busy and reflect different sides of who I am\'97my love for machines, my artistic side, and my drive to stay strong.
+Lab 2 Questions:
+
+You have created a GitHub repository and want to share it with your friend Bob by
+sending him the repository link. When Bob clicks the link in his web browser, some
+communication happens over the internet. Explain step by step what happens using the
+concepts of client and server. In your explanation, make sure to mention:
+
+• Which device acts as the client?
+Bob’s device acts as the client,when Bob clicks the GitHub repository link in his web browser, his computer (or phone) becomes the client.
+
+
+• Which device acts as the server?
+GitHub servers are the server,The GitHub website is hosted on remote servers, which store the repository’s data (code, files, and metadata).
+
+
+• How Bob’s browser requests the repository content?
+The browser sends a request to the server,Bob’s browser interprets the URL of the repository and sends an HTTP request over the internet to the GitHub server.
+
+• How the server responds and sends the content back to Bob?
+When Bob clicks the GitHub link, his browser (the client) sends an HTTP request to the GitHub server, which stores the repository. The server processes the request, packages the repository data into an HTTP response, and sends it back over the internet in packets. Bob’s browser receives the response, reassembles the data, and renders the repository page for him to view and interact with.
